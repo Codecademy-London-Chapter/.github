@@ -1,5 +1,3 @@
-![GitHub Org's stars](https://img.shields.io/github/stars/Codecademy-London-Chapter?style=social)
-
 ## Welcome to Codecademy Londdon Chapter Github 👋
 
 ### Who are we
