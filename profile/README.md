@@ -1,12 +1,16 @@
-## Hi there 👋
+## Welcome to Codecademy Londdon Chapter Github 👋
 
-<!--
+### WHo are we
+We are Codecademy's london chapter, [more info here](https://community.codecademy.com/london/). We're all about knowledge sharing, building and growing together. This organization is the home of our group projects. Feel free to explore fork and experiment to your hears content and we'd love to see where your imagination takes you. Everything here will always be public so if you have an Idea get involved and make a PR, reach out to the contributors and joing our [chapter](https://community.codecademy.com/london/)
 
-**Here are some ideas to get you started:**
+### Contribution Guidelines
+Each repo will have its own contribution guidlines set out by the repo owner, please make sure you read these carefull. They will usually be set out in the README.md. All of our repos follow conventional commits so check out the links below to learn more. Any questions please feel free to reach out on our [discord](https://discord.gg/53QDMe5f)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Useful Resources
+[conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) 
+
+### Fun Facts
+
+- Both chapter leaders were music teachers before bcoming developers
+
+Happy Coding :smile:
