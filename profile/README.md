@@ -1,4 +1,4 @@
-https://img.shields.io/github/followers/Codecademy-London-Chapter?style=social
+![GitHub followers](https://img.shields.io/github/followers/Codecademy-London-Chapter?style=social)
 
 ## Welcome to Codecademy Londdon Chapter Github 👋
 
